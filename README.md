@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Joelk97
-- 👀 I’m interested in Reinforcement Learning and Data Science 
-- 🌱 I’m currently learning mechanical engineering
+- 👀 I’m interested in data science, Web Development and Software Development
+- 🌱 I am a mechanical engineer but I am currently looking for a new path and new goals in life
 - 📫 How to reach me: Linkedin: https://www.linkedin.com/in/joel-k%C3%BChl-276297192/ or via Email: kuehljoel@gmail.com
 
 <!---
